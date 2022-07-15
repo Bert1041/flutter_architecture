@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mvvm_stacked_architecture/ui/views/home/home_view.dart';
-import 'package:stacked_services/stacked_services.dart';
+import 'package:mvvm_stacked_architecture/utils/locator.dart';
+import 'package:mvvm_stacked_architecture/utils/navigation/router.gr.dart';
 
-import 'app/locator.dart';
-import 'app/router.gr.dart';
 
 void main() {
   setupLocator();

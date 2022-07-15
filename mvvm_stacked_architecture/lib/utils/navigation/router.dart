@@ -1,7 +1,7 @@
 import 'package:auto_route/annotations.dart';
 
-import '../ui/views/home/home_view.dart';
-import '../ui/views/startup/startup_view.dart';
+import '../../ui/views/home_view.dart';
+import '../../ui/views/startup_view.dart';
 @MaterialAutoRouter(
     replaceInRouteName: 'Page,Route',
     routes: [

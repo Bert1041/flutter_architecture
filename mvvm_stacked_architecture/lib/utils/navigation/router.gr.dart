@@ -13,8 +13,8 @@
 import 'package:auto_route/auto_route.dart' as _i3;
 import 'package:flutter/material.dart' as _i4;
 
-import '../ui/views/home/home_view.dart' as _i2;
-import '../ui/views/startup/startup_view.dart' as _i1;
+import '../../ui/views/home_view.dart' as _i2;
+import '../../ui/views/startup_view.dart' as _i1;
 
 class AppRouter extends _i3.RootStackRouter {
   AppRouter([_i4.GlobalKey<_i4.NavigatorState>? navigatorKey])

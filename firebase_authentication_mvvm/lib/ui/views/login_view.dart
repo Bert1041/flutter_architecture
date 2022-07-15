@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../viewmodels/login_view_model.dart';
+import '../components/busy_button.dart';
+import '../components/input_field.dart';
+import '../components/text_link.dart';
 import '../shared/ui_helpers.dart';
-import '../widgets/busy_button.dart';
-import '../widgets/input_field.dart';
-import '../widgets/text_link.dart';
 
 class LoginView extends StatelessWidget {
   final emailController = TextEditingController();
