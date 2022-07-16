@@ -1,16 +1,4 @@
 # mvvm_provider_architecture
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![IN2025 16_07_2022 15_41_22](https://user-images.githubusercontent.com/57686059/179359641-5389683a-84be-414f-a4a8-4055f775c5d7.png)
+![IN2025 16_07_2022 15_41_38](https://user-images.githubusercontent.com/57686059/179359644-5c5c84d3-361e-4223-857a-ee5907512a6f.png)
